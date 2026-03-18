@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm B Venkata Jitendra Reddy</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full-Stack Developer | MERN Stack & Java Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA Student (1st Year)
+- 🎓 MCA Student (First Year)
 - 💻 Passionate about Full-Stack Development & AI
-- 🚀 Building real-world projects like **Landhub (Real Estate Platform)**
-- 🌱 Currently learning **Advanced MERN Stack & Mobile App Development**
+- 🚀 Building real-world projects like Landhub, Airbnb Clone, Connectify etc
+- 🌱 Currently learning **Advanced Java, Springboot & Python, Django**
 - 🏢 Intern at **Haegl Technologies**
-- 🔭 Working on my startup idea **TechOrbi**
 
 ---
 
@@ -17,6 +16,7 @@
 
 ### 💻 Languages
 - JavaScript
+- Java
 - Python
 - HTML5 & CSS3
 
@@ -26,10 +26,11 @@
 - Express.js
 - Django
 - Bootstrap
+- Redux
 
 ### 🗄️ Databases
 - MongoDB
-- SQLite
+- MySql
 
 ### 🔧 Tools & Technologies
 - Git & GitHub
