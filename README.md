@@ -74,14 +74,6 @@
 
 ---
 
-## ⚡ Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
 ## 🧩 What Makes Me Different
 
 ✔️ I build **real-world projects**, not just tutorials  
@@ -96,7 +88,7 @@
 
 - 📧 Email: venkatjitendrareddy@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/b-venkata-jitendra-reddy/  
-- 🌐 Portfolio:  
+- 🌐 Portfolio: https://bvjr-portfolio.onrender.com
 
 ---
 
