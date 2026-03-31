@@ -20,10 +20,9 @@
 
 ## 📄 Resume & Portfolio
 
-- 📌 Resume: [Click Here](YOUR_RESUME_LINK)
-- 🌐 Portfolio: [Click Here](YOUR_PORTFOLIO_LINK)
-- 💼 LinkedIn: [Click Here](YOUR_LINKEDIN_LINK)
-- 📺 YouTube: [Click Here](YOUR_CHANNEL_LINK)
+- 📌 Resume: [Click Here](https://github.com/B-Venkata-Jitendra-Reddy/resume/blob/main/Jitendra_Resume.pdf)
+- 🌐 Portfolio: [Click Here](https://bvjr-portfolio.onrender.com)
+- 💼 LinkedIn: [Click Here]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/b-venkata-jitendra-reddy/))
 
 ---
 
@@ -58,14 +57,6 @@
 
 ---
 
-### 🎓 Skillora
-> Course platform like Udemy  
-- 📚 Course Upload System  
-- 👨‍🏫 Instructor Dashboard  
-- 🎥 Learning Platform UI  
-
----
-
 ### 🏥 Aditya Hospital Project
 > Hospital management system  
 - 🗂️ Patient records  
@@ -91,16 +82,6 @@
 
 ---
 
-## 🎌 Anime Mode (Because Developer + Anime = 🔥)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-</p>
-
-> "Code like Levi. Think like L. Execute like Itachi." ⚔️
-
----
-
 ## 🧩 What Makes Me Different
 
 ✔️ I build **real-world projects**, not just tutorials  
@@ -113,9 +94,9 @@
 
 ## 🤝 Let's Connect
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: YOUR_LINK  
-- 🌐 Portfolio: YOUR_LINK  
+- 📧 Email: venkatjitendrareddy@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/b-venkata-jitendra-reddy/  
+- 🌐 Portfolio:  
 
 ---
 
@@ -125,4 +106,4 @@
 
 ---
 
-⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐ From [YOUR_GITHUB_USERNAME](https://github.com/B-Venkata-Jitendra-Reddy)
