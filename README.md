@@ -1,101 +1,143 @@
 <h1 align="center">Hi 👋, I'm B Venkata Jitendra Reddy</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Tech Creator</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Python & Django | Tech Creator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/b-venkata-jitendra-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bvjr-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:venkatjitendrareddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-- 🎓 MCA Student | Passionate about building real-world applications  
-- 💻 Working on **LandHub (Real Estate Platform for Farmers)**  
-- 🚀 Building **Skillora (Course Platform)**  
-- 🎥 Tech YouTuber (Projects + Coding Content)  
-- ⚡ Love solving real-world problems using code  
-- 🎯 Goal: Build impactful tech products & startup (**TechOrbi**)  
-
----
-
-## 📄 Resume & Portfolio
-
-- 📌 Resume: [Click Here](https://github.com/B-Venkata-Jitendra-Reddy/resume/blob/main/Jitendra_Resume.pdf)
-- 🌐 Portfolio: [Click Here](https://bvjr-portfolio.onrender.com)
-- 💼 LinkedIn: [Click Here]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/b-venkata-jitendra-reddy/))
+- 🎓 BCA Graduate (CGPA 8.08) | Freelance Full-Stack Developer
+- 💻 Built **LandHub** — a real estate platform connecting farmers directly with buyers
+- 🏠 Built **Airbnb Clone** — a property rental platform with auth & booking
+- 🎙️ Built **VoiceFlow AI** — an AI-powered text-to-speech application
+- 🏥 Built **Aditya Hospital Management System** using EJS + Node.js
+- 🎥 Tech YouTuber — sharing projects and coding content
+- 🎯 Goal: Build impactful tech products through my startup, **TechOrbi**
 
 ---
 
-## 🛠️ Tech Stack
+### 📄 Resume & Links
 
-### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+- 📌 **Resume:** [View Here](https://github.com/B-Venkata-Jitendra-Reddy/resume/blob/main/Jitendra_Resume.pdf)
+- 🌐 **Portfolio:** [bvjr-portfolio.onrender.com](https://bvjr-portfolio.onrender.com/)
+- 💼 **LinkedIn:** [b-venkata-jitendra-reddy](https://www.linkedin.com/in/b-venkata-jitendra-reddy/)
 
 ---
 
-## 💼 Featured Projects
+### 🛠️ Tech Stack
 
-### 🌱 LandHub
-> A real estate platform where farmers sell land directly to companies  
-- 📍 Google Maps Integration  
-- 🧑‍🌾 Seller-Buyer Chat System  
-- 📊 Dynamic Property Listings  
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,java" />
+</p>
 
----
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,materialui" />
+</p>
 
-### 🏥 Aditya Hospital Project
-> Hospital management system  
-- 🗂️ Patient records  
-- 📋 Appointment system  
-- ⚙️ Built using EJS + Node.js  
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,render,postman" />
 </p>
 
 ---
 
-## 🧩 What Makes Me Different
+### 💼 Featured Projects
 
-✔️ I build **real-world projects**, not just tutorials  
-✔️ I combine **development + content creation (YouTube)**  
-✔️ I focus on **problem-solving & scalability**  
-✔️ I am working on a **startup (TechOrbi)**  
-✔️ Strong interest in **full-stack + product development**
+**🌱 [LandHub](https://github.com/B-Venkata-Jitendra-Reddy) — Real Estate Platform for Farmers**
+*Python & Django*
+- 📍 Google Maps integration for property locations
+- 🧑‍🌾 Seller–buyer chat system
+- 📊 Dynamic property listings with search functionality
+
+**🏠 Airbnb Clone — Property Rental Platform**
+*MERN Stack*
+- 🔐 Authentication & booking system
+- ⚙️ Built with React.js, Node.js, Express.js, and MongoDB
+
+**🎙️ VoiceFlow AI — Text-to-Speech App**
+*MERN Stack*
+- 🤖 AI-powered speech generation
+- ⚙️ Built with React.js, Node.js, and Express.js
+
+**🏥 Aditya Hospital Management System**
+- 🗂️ Patient records management
+- 📋 Appointment scheduling system
+- ⚙️ Built using EJS + Node.js
 
 ---
 
-## 🤝 Let's Connect
+### 💡 Experience
 
-- 📧 Email: venkatjitendrareddy@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/b-venkata-jitendra-reddy/  
-- 🌐 Portfolio: https://bvjr-portfolio.onrender.com
-
----
-
-## 💡 Quote I Believe In
-
-> "First, solve the problem. Then, write the code." – John Johnson
+**Web Development Intern — Haegl Technologies Pvt Ltd**
+*March 2025 – June 2025*
+- Worked on Python and Django-based web applications
+- Developed backend functionalities, REST APIs, and database integrations
+- Independently built the LandHub platform to solve a real-world problem
+- Collaborated using Git workflows and industry-standard practices
 
 ---
 
-⭐ From [YOUR_GITHUB_USERNAME](https://github.com/B-Venkata-Jitendra-Reddy)
+### 🎓 Education
+
+| Qualification | Institution | Score | Year |
+|---|---|---|---|
+| BCA | Oxford College of Computer Application, Hubli | CGPA 8.08 | 2025 |
+| PUC | Reddy Veeranna Sanjeevappa & Composite Jr. College, Karatagi | 71.33% | 2022 |
+| SSLC | Rudra Gowda Memorial School, Sindhanur | 55.2% | 2020 |
+
+---
+
+### 📜 Certifications
+
+- ✅ Full-Stack Web Developer using MERN Stack — Apna College
+- ✅ Full-Stack Web Developer using Python, Django & Java — KodNest
+- ✅ Internship Certificate — Haegl Technologies Pvt. Ltd.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B-Venkata-Jitendra-Reddy&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Venkata-Jitendra-Reddy&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Venkata-Jitendra-Reddy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 What Makes Me Different
+
+- ✔️ I build real-world projects, not just tutorials
+- ✔️ I combine development with content creation (YouTube)
+- ✔️ I focus on problem-solving & scalability
+- ✔️ I'm building my own startup, **TechOrbi**
+- ✔️ Strong interest in full-stack + product development
+
+---
+
+### 🤝 Let's Connect
+
+- 📧 **Email:** [venkatjitendrareddy@gmail.com](mailto:venkatjitendrareddy@gmail.com)
+- 💼 **LinkedIn:** [b-venkata-jitendra-reddy](https://www.linkedin.com/in/b-venkata-jitendra-reddy/)
+- 🌐 **Portfolio:** [bvjr-portfolio.onrender.com](https://bvjr-portfolio.onrender.com/)
+
+---
+
+<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
+
+<p align="center">⭐ From <a href="https://github.com/B-Venkata-Jitendra-Reddy">B-Venkata-Jitendra-Reddy</a></p>
