@@ -16,7 +16,6 @@
 - 🏠 Built **Airbnb Clone** — a property rental platform with auth & booking
 - 🎙️ Built **VoiceFlow AI** — an AI-powered text-to-speech application
 - 🏥 Built **Aditya Hospital Management System** using EJS + Node.js
-- 🎯 Goal: Build impactful tech products through my startup, **TechOrbi**
 
 ---
 
