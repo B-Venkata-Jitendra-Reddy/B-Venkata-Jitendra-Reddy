@@ -93,7 +93,6 @@
 |---|---|---|---|
 | BCA | Oxford College of Computer Application, Hubli | CGPA 8.08 | 2025 |
 | PUC | Reddy Veeranna Sanjeevappa & Composite Jr. College, Karatagi | 71.33% | 2022 |
-| SSLC | Rudra Gowda Memorial School, Sindhanur | 55.2% | 2020 |
 
 ---
 
